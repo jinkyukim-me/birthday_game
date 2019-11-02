@@ -1,4 +1,4 @@
-#Sat Nov 02 09:51:28 KST 2019
+#Sat Nov 02 10:06:41 KST 2019
 base.0=E\:\\birthday_game\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
